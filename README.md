@@ -1,7 +1,3 @@
-# Ask Me Anything
-
-> 向老师提问
-
 ## 💬 Ask Me Anything
 
 > "Ask Me Anything"（AMA）—— 有任何问题，尽管问！
